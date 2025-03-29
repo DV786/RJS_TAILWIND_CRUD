@@ -48,7 +48,7 @@ RJS_TAILWIND_CRUD/
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/DV786/RJS_TAILWIND_CRUD.git
-cd react-tailwind-crud
+cd RJS_TAILWIND_CRUD
 ```  
 
 2️⃣ **Install dependencies**  
